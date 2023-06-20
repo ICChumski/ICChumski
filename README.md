@@ -11,4 +11,3 @@
 <div>
   <img width="20%" src= "https://skillicons.dev/icons?i=js,html,css,java,git,c">
 </div>
-<img align="right"alt="" src="https://cdn.discordapp.com/attachments/682335892874068013/1120521001566994534/giphy.png">
